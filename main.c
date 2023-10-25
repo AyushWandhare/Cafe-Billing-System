@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h> 
 
-//initializing global variable
+//initializing global variables
 int a = 1, choice, sa, ds, te, co, sa1, ds1, te1, co1;
 
 //function prototyping
